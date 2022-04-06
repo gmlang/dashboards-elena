@@ -1,6 +1,4 @@
 import pandas as pd
-# import numpy as np
-# import altair as alt
 import streamlit as st
 from st_aggrid import AgGrid, JsCode, GridOptionsBuilder #, GridUpdateMode, 
 import altair as alt
